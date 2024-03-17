@@ -1,3 +1,9 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+# Site settings
+title: Baptiste Imbert
+author:
+  name: Baptiste Imbert
+  email: baptiste.imbert@inrae.fr
+description: ""
+
+# Build settings
+remote_theme: jekyll/minima
