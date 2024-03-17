@@ -11,4 +11,4 @@ Some Markdown content describing your site.
 - bioinformatics
 
 ## Contact me
-email: [Link text](baptiste.imbert@inrae.fr)
+email: [baptiste.imbert@inrae.fr](baptiste.imbert@inrae.fr)
