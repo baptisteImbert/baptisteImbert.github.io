@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Baptiste Imbert / Site Title"
+title                    : "Baptiste Imbert"
 title_separator          : "-"
 name                     : &name "Baptiste Imbert"
 description              : &description "personal description"
