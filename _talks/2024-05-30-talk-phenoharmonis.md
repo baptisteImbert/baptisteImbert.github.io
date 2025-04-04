@@ -1,9 +1,9 @@
 ---
 title: "Making Scientific Research More Efficient through the Use of Ontologies: An Illustration through the Knowledge Graph Ortho_KB for translational research"
 collection: talks
-type: "Conference"
+type: "PhenoHarmonIS conference"
 permalink: /talks/2024-05-30-talk-phenoharmonis
-venue: "Institut Agro, PhenoHarmonIS conference"
+venue: "Institut Agro"
 date: 2024-05-30
 location: "Montpellier, France"
 ---
