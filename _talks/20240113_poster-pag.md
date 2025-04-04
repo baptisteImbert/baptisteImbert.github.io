@@ -4,7 +4,7 @@ collection: talks
 type: "Plant & Animal Genome Conference (PAG) - Poster"
 permalink: /talks/2024-01-13-talk1-pag
 venue: "Town & Country Resort and Conference Center"
-date: 2024-05-30
+date: 2024-01-15
 location: "San Diego, CA, US"
 ---
 
