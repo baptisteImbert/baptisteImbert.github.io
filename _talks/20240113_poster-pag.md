@@ -1,0 +1,12 @@
+---
+title: "Promotion of Translational Research in Plants By the Development of a Knowledge Graph Framework: A Case Study on Grain Legumes"
+collection: talks
+type: "Plant & Animal Genome Conference (PAG) - Poster"
+permalink: /talks/2024-01-13-talk1-pag
+venue: "Town & Country Resort and Conference Center"
+date: 2024-05-30
+location: "San Diego, CA, US"
+---
+
+With global population growth, climate change and evolving regulations on the use of pesticides herbicides, researchers and breeders must adapt and accelerate crop improvement to meet the challenges ahead. Major crops have benefited from genomic efforts, which have enabled the identification of key genetic drivers that can be rapidly implemented to ensure food security. Thanks to translational research, less studied crops, including some legumes, can benefit from both the wealth of research and, in particular, the knowledge available from closely related crops or species. This requires the correct identification of functional orthologs, the retrieval of available data and knowledge, and the linking of diverse heterogeneous data, which becomes more difficult as the number of species increases.
+To facilitate this process of translational research, we have developed two pipelines, namely the structural and the functional pipeline, to create a framework for a NoSQL graph database (Neo4j) to integrate and query heterogeneous data from multiple species. The structural pipeline identifies orthologous genes and syntenic chromosomal regions to highlight functional orthologs that serve as bridges between species for knowledge transfer. The functional pipeline integrates published and unpublished biological information, including quantitative trait loci (QTL) and RNA-seq datasets, and uses the backbone from the structural pipeline to connect orthologs in the database. The constructed graph, called Ortho_KB and its instance for legumes OrthoLegKB, can be queried to make quasi-instantaneous use of the included datasets. This platform can be useful, for example, for comparing current knowledge on complex genetic traits, checking the conservation of genes of interest within QTL intervals, crossing information on gene expression profiles or suggesting pleiotropy.
