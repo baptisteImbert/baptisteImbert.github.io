@@ -10,7 +10,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/cv_baptiste_imbert_en.pdf
+    url: /files/resume_baptiste_imbert.pdf
 
   - title: "Publications"
     url: /publications/
